@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823842323102",
+    "project_id": "novopaint",
+    "storage_bucket": "novopaint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823842323102:android:f67d229e86aabf9d8a998f",
+        "android_client_info": {
+          "package_name": "com.example.novopaint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823842323102-0dl79mh5hap9r7tgeudcghrspt31u7ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6IZJz8zKpKk47Wnzk5puitN4lNpZUJTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823842323102-0dl79mh5hap9r7tgeudcghrspt31u7ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
